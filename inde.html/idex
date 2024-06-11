@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>Armaan Dagar</h1>
+    <img src="../photo.jpg" height="200" alt="My photo" />
+    <h3>Objective</h3>
+    <p>Hi!! everyone <br />
+       I have recently startd learnig coding as i joined csc for my optional subject , at first iwas frustrated because i wsnt able to understand and i scored really bad. I blamed myself many times but after sometime i think that i got interested in coding but i dont like pyhton , Currently i am aiming 
+       to learn hml,css and java so that i can become a web dev as a hobby.
+    </p>
+    <hr />
+    <h3>Education & Qualifications</h3>
+    <P>
+       I a currently a student at SD adrash vidyalya and as a hobby i have learned html basics and how to apply tags and aiming to learn css and java before year 2025 
+    </P>
+    <hr />
+    <h3>Work Experience</h3>
+    <h4>At th start of 11th standard</h4>
+     <ol>
+    
+        <li>I joined Csc as an optional subject</li>
+        <li>The reason was that my bestfrriend claimed it to be easy</li>
+        <li>I was shocked as i knew that moment i fu##ed up</li>
+        <li>It was damn hard for me as w got introduced with coding</li>
+    </ol>
+    <h4>During december in my 11th standard</h4>
+    <ol>
+        <li>My periodic test were just ended and i went to check my results</li>
+        <li>At that time i was scared i was thinking that it would be less</li>
+        <li>But then i sw tha i got 48.5 out of 50</li>
+        <li>I scored the highest marks in the whole class</li>
+        <li>I as too damn happy as i worked hard for it and i somehow got a hung of it </li>
+    </ol>
+    <h4>In May f 12th standard</h4>
+    <ol>
+        <li>My friend who is a developer suggested me to learn other languages  </li>
+        <li>I thought it would be nice to become  developer as i could earn through it now </li>
+        <li>So, i am currently on my journey of becoming a developer</li>
+    </ol>
+    <hr />
+    <h3>Skill</h3>
+    <p>I have currently knowledge of Html and pyhton basics and i am trying to grasp knowledge of css and java script</p>
+</body>
+</html>
+    
+
+
+
+
+
